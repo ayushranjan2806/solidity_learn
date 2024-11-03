@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getter",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "newage",
+						"type": "uint256"
+					}
+				],
+				"name": "setter",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Settergetter.sol": "settergetter"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Settergetter.sol": {
+			"keccak256": "0x4ba5d2760908c038ad6f42481b9ada3ac769023e3aa70f6326113d1cc043267a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://924d94a2a44fdcd3db1aed996cbbed08610699e45e416b77426c9c06054b253b",
+				"dweb:/ipfs/QmURXxZ7WCWYFwxnhB9bdeLJMZPQVbQbM7qUN9uMyTJdbG"
+			]
+		}
+	},
+	"version": 1
+}

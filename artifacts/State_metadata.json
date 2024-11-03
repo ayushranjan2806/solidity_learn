@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getAge",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Statevariable.sol": "State"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Statevariable.sol": {
+			"keccak256": "0xd8ccce5688403a2a656ee3590a39aa3477407373db5582aa83126fcf2a9fc022",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://250aa69fb5cf2bdb3012f4fa444dc219e6900c36833796e4d8d592e29f6f3045",
+				"dweb:/ipfs/QmVv4LXTkrumL6gjrm9umMnAvP9Vt5RbSqJt3VYbRUBiYy"
+			]
+		}
+	},
+	"version": 1
+}
